@@ -1,0 +1,6 @@
+framework module Pods_AmazonMusic {
+  umbrella header "Pods-AmazonMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}

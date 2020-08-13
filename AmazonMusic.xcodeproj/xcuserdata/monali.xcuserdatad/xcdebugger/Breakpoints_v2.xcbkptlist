@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F34A3411-1A85-4115-AC9A-500F627A18AD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09A2E2E8-173F-44D1-AA26-2D3065888AA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmazonMusic/HomePageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "HomePageViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "09A2E2E8-173F-44D1-AA26-2D3065888AA8 - 9a80a389ddf5aa96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AmazonMusic.HomePageViewController.bannerUrl.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "AmazonMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/monali/Desktop/AmazonMusic/AmazonMusic/HomePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "09A2E2E8-173F-44D1-AA26-2D3065888AA8 - 29d71a825e35a75c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AmazonMusic.HomePageViewController.init(style: __C.UITableViewStyle) -&gt; AmazonMusic.HomePageViewController"
+                  moduleName = "AmazonMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/monali/Desktop/AmazonMusic/AmazonMusic/HomePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "09A2E2E8-173F-44D1-AA26-2D3065888AA8 - a18963420192b292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AmazonMusic.HomePageViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AmazonMusic.HomePageViewController"
+                  moduleName = "AmazonMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/monali/Desktop/AmazonMusic/AmazonMusic/HomePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "09A2E2E8-173F-44D1-AA26-2D3065888AA8 - 2f5e5dfec2cb526c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AmazonMusic.HomePageViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AmazonMusic.HomePageViewController&gt;"
+                  moduleName = "AmazonMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/monali/Desktop/AmazonMusic/AmazonMusic/HomePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6266F24-4E4C-4371-B580-A7B6740E737A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmazonMusic/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "setUpTabbarController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "369F99B1-C2F6-4D21-971E-B433DAD9D08A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmazonMusic/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "setUpTabbarController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
